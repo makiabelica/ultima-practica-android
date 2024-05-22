@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">consultabasedatos</string>
+    <string name="title_activity_guardar">guardar</string>
+</resources>
